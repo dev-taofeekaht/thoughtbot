@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-bar{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin: 20px;
+}
+.nav-bar li{
+    margin-top: -60px;
+
+}
+.nav-bar li a{
+    text-decoration: none;
+    padding: 030px ;
+}
+#header{
+    position: fixed;
+    width: 100%;
+    background-color: white;
+    height: 80px;
+     margin-top: -160px;    
+}
+#image{
+    margin-left: 800px;
+    margin-top: -300px;
+}
+.thought {
+    margin-left: 800px;
+    margin-top: 20px;
+    color: black;
+}
+.thought li a {
+    color: #707C8E;
+}
+ .thought a:hover {
+     color: red;
+ }
+ .taofeekat li a{
+color: white;
+text-decoration: none;
+ }
+ .taofeekat a:hover {
+     color: red;
+ }
+ .bisade li a{
+    color: white;
+    text-decoration: none;
+     }
+     .bisade a:hover {
+        color: red;
+    }
+    .rb li a{
+        color: white;
+        text-decoration: none;
+         }
+         .rb a:hover {
+            color: red;
+        }
